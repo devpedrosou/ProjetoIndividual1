@@ -1,7 +1,7 @@
 # Projeto Individual 1
 Trabalho individual do curso programadores cariocas no mercado do seguro, CNSeg 2024
 
-#Sobre o Projeto
+# Sobre o Projeto
 Este projeto consiste em um aplicativo desenvolvido em Python para gerenciar e analisar os resultados dos candidatos em diferentes etapas de um processo seletivo. O objetivo principal é facilitar a busca por candidatos cujas notas em cada etapa atendam aos critérios mínimos especificados pelo usuário.
 
 Funcionalidades Principais:
@@ -10,7 +10,7 @@ Inserir Resultados dos Candidatos: O usuário pode inserir os resultados dos can
 
 Buscar Candidatos Compatíveis: O aplicativo permite que o usuário especifique as notas mínimas desejadas para cada etapa do processo seletivo. Com base nessas notas mínimas, o aplicativo busca e lista os candidatos cujas notas em todas as etapas sejam maiores ou iguais às notas mínimas especificadas.
 
-#Como Utilizar
+# Como Utilizar
 
 Inserir Resultados dos Candidatos:
 
